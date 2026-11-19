@@ -3,7 +3,8 @@
   "installUrl": "https://github.com/Jafar-Developer/Jafar-Services-Management/releases/download/1.0.0.0/install.7z",
   "updateUrl": "",
   "updateinstallerUrl": "",
-  "certUrl": "https://github.com/Jafar-Developer/Jafar-Services-Management/releases/download/1.0.0.0/JafarCert.cer"
+  "certUrl": "https://github.com/Jafar-Developer/Jafar-Services-Management/releases/download/1.0.0.0/JafarCert.cer",
+  "WinInstallerUpdater": ""
 }
  
  
